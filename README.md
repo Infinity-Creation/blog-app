@@ -1,5 +1,5 @@
 # A statically generated blog example using Next.js, Markdown, and TypeScript
- hello world!
+Hello world!
 We started in February 2024.
 
 This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
