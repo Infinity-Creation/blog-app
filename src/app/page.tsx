@@ -1,4 +1,5 @@
 import Container from "@/app/_components/container";
+import { NavBar } from "@/app/_components/navbar";
 import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
@@ -14,6 +15,7 @@ export default function Index() {
   return (
     <main>
       <Container>
+        <NavBar />
         <Intro />
         <HeroPost
           title={heroPost.title}
