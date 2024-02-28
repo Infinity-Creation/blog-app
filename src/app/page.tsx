@@ -4,7 +4,7 @@ import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "../lib/api";
-import { Cta } from "@/app/_components/cta";
+
 
 
 export default function Index() {
@@ -18,7 +18,6 @@ export default function Index() {
     <main className="bg-neutral-950 text-white">
       <Container>
         <NavBar />
-        <Cta/>
         <div className="mt-[100px]">
         <HeroPost
           title={heroPost.title}
