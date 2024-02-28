@@ -16,6 +16,7 @@ export default function Index() {
     <main className="bg-neutral-950 text-white">
       <Container>
         <NavBar />
+        <div className="mt-[100px]">
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
@@ -25,6 +26,7 @@ export default function Index() {
           excerpt={heroPost.excerpt}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        </div>
       </Container>
     </main>
   );
