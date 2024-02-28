@@ -1,5 +1,5 @@
 # A statically generated blog example using Next.js, Markdown, and TypeScript
-
+Hello world!
 We started in February 2024.
 
 TODOS:
