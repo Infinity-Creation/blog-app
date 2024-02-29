@@ -2,7 +2,8 @@ import Container from "./container";
 export function CallToAction() {
     return (
        <Container>
-        <section className="bg-[src()]">
+       
+        <section className="">
     <h1 className="text-8xl mt-[100px] font-bold">Alteca</h1>
     <h2 className="font-bold text-5xl mb-[50px]">Explore Programming Tutorials, Reviews, and How-to-Guides</h2>
     <a
