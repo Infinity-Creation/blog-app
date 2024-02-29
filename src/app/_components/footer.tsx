@@ -26,7 +26,7 @@ export function Footer() {
               <a href="https://dev.to/alteca">DEV Community</a>
               <a href="https://alteca.hashnode.dev">Hashnode</a>
               <a href="https://scratch.mit.edu/">Scratch</a>
-              <a href="">Github</a>
+              <a href="https://github.com/Infinity-Creation">Github</a>
           </div>
       </Container>
     </footer>
