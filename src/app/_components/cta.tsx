@@ -3,7 +3,7 @@ export function CallToAction() {
     return (
        <Container>
 
-    <h1 className="text-8xl font-bold">Alteca</h1>
+    <h1 className="text-8xl mt-[100px] font-bold">Alteca</h1>
     <h2 className="font-bold text-5xl mb-[50px]">Explore Programming Tutorials, Reviews, and How-to-Guides</h2>
     <a
               href="https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts" target={"_blank"}

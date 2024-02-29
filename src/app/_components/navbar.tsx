@@ -4,7 +4,7 @@ import Link from 'next/link';
 export function NavBar() {
   return (
     <Container>
-    <nav className="bg-gray-800 p-4">
+    <nav className=" p-4">
       <div className="flex justify-between items-center">
         <div>
           <Link href="/" className="text-white mr-4">
