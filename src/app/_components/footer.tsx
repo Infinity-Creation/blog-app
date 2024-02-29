@@ -17,7 +17,17 @@ export function Footer() {
               Start Reading
             </a>
           </div>
+
         </div>
+        
+
+          <div className="justify-center flex gap-[20px]">
+              <a href="https://x.com/alteca_xyz">X</a>
+              <a href="https://dev.to/alteca">DEV Community</a>
+              <a href="https://alteca.hashnode.dev">Hashnode</a>
+              <a href="https://scratch.mit.edu/">Scratch</a>
+              <a href="">Github</a>
+          </div>
       </Container>
     </footer>
   );
