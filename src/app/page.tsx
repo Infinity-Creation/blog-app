@@ -4,6 +4,10 @@ import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "../lib/api";
+import { CallToAction } from "./_components/cta";
+
+
+
 
 export default function Index() {
   const allPosts = getAllPosts();
@@ -16,6 +20,8 @@ export default function Index() {
     <main className="bg-neutral-950 text-white">
       <Container>
         <NavBar />
+        <CallToAction></CallToAction>
+        <div className="mt-[100px]">
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
@@ -25,6 +31,7 @@ export default function Index() {
           excerpt={heroPost.excerpt}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+        </div>
       </Container>
     </main>
   );
