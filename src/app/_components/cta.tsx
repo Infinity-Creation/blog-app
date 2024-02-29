@@ -1,5 +1,5 @@
 import Container from "./container";
-export function cta() {
+export function CallToAction() {
     return (
        <Container>
     <h1>Alteca</h1>
