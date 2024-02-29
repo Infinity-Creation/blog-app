@@ -5,7 +5,7 @@ import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "../lib/api";
 import { CallToAction } from "./_components/cta";
-
+import { AboutHome } from "./_components/about-home";
 
 
 
@@ -32,6 +32,7 @@ export default function Index() {
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </div>
+        <AboutHome></AboutHome>
       </Container>
     </main>
   );
