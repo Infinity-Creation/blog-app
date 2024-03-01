@@ -6,7 +6,8 @@ import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "../lib/api";
 import { CallToAction } from "./_components/cta";
 import { AboutHome } from "./_components/about-home";
-
+import { TechStack } from "./_components/TechStack";
+import { HomeProjects } from "./_components/HomeProjects";
 
 
 export default function Index() {
@@ -33,6 +34,8 @@ export default function Index() {
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </div>
         <AboutHome></AboutHome>
+        <TechStack></TechStack>
+        <HomeProjects></HomeProjects>
       </Container>
     </main>
   );
