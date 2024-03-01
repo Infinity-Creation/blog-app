@@ -5,7 +5,7 @@ export function AboutHome() {
       <Container>
             <h2 className="font-bold text-6xl text-center">About</h2>
 
-            <section className="flex justify-space-around mt-[100px] mb-[100px] gap-[30px]">
+            <section className="flex justify-center mt-[100px] mb-[100px] gap-[30px]">
             <section className="border-[1px] border-solid border-[white]  rounded-3xl p-[30px] text-center" >
                 <h3 className=" font-bold text-5xl">Who am I</h3>
             <p>I am a teen who loves Web Development technologies such as JS TS and React. I really look forward to sharing my knowledge in coding with others via this blog and giving you a bit of my personal experience with Web Development.</p>
