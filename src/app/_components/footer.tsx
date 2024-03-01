@@ -3,7 +3,7 @@ import { EXAMPLE_PATH } from "@/lib/constants";
 
 export function Footer() {
   return (
-    <footer className="bg-neutral-950 text-white border-t-[1px] border-t-solid border-t-[white] rounded-[50px_50px_0_0] mt-[40px]"> 
+    <footer className="bg-neutral-950 text-white border-t-[1px] border-t-solid border-t-[white] rounded-[50px_50px_0_0] mt-[40px]">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
@@ -19,19 +19,19 @@ export function Footer() {
           </div>
 
         </div>
-        
 
-          <div className="justify-center flex gap-[20px] mb-[20px]">
-              <a href="https://x.com/alteca_xyz">X</a>
-              <a href="https://dev.to/alteca">DEV Community</a>
-              <a href="https://alteca.hashnode.dev">Hashnode</a>
-              <a href="https://scratch.mit.edu/">Scratch</a>
-              <a href="https://github.com/Infinity-Creation">Github</a>
-          </div>
-          <div className=" justify-center flex mb-[20px]">
-            <p> Copyright &copy; 2024</p>
 
-          </div>
+        <div className="justify-center flex gap-[20px] mb-[20px]">
+          <a href="https://x.com/alteca_xyz">X</a>
+          <a href="https://dev.to/alteca">DEV Community</a>
+          <a href="https://alteca.hashnode.dev">Hashnode</a>
+          <a href="https://scratch.mit.edu/">Scratch</a>
+          <a href="https://github.com/Infinity-Creation">Github</a>
+        </div>
+        <div className=" justify-center flex mb-[20px]">
+          <p> Copyright &copy; 2024</p>
+
+        </div>
       </Container>
     </footer>
   );
