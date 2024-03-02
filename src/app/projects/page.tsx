@@ -7,7 +7,7 @@ export default function Projects() {
     <section className="bg-neutral-950 text-white">
       <Container>
         <NavBar></NavBar>
-        <div>Projects Page</div>
+        <h1 className="text-8xl mt-[100px] font-bold">Alteca Blog</h1>
       </Container>
     </section>
   );

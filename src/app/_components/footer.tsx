@@ -29,7 +29,7 @@ export function Footer() {
           <a href="https://github.com/Infinity-Creation">Github</a>
         </div>
         <div className=" justify-center flex mb-[20px]">
-          <p> Copyright &copy; 2024</p>
+          <p> Copyright &copy; 2024. All rights reserved</p>
 
         </div>
       </Container>
