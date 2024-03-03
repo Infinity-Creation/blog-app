@@ -4,10 +4,11 @@ import Image from "next/image";
 
 export function TechStack() {
   return (
-    <section>
+    <section >
       <h2 className="font-bold text-6xl text-center">My Tech Stack</h2>
+      <div className="flex justify-center gap-[50px] mt-[50px]">
       <div className="flex justify-center gap-[50px]">
-        <div className=" mr-[100px] ml-[100px] p-[50px] border-[1px] border-[white] border-solid rounded-2xl">
+        <div className=" p-[50px] border-[1px] border-[white] border-solid rounded-2xl">
           <p className="text-center">
             I am very fluent in HTML 5 and CSS 3 as well as in JavaScript. I
             also am starting to master Node.js and other more advanced JS and TS
@@ -134,6 +135,7 @@ export function TechStack() {
             />
           </div>
         </div>
+      </div>
       </div>
     </section>
   );
