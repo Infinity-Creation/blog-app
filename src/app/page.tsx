@@ -1,12 +1,11 @@
 import Container from "@/app/_components/container";
 import { NavBar } from "@/app/_components/navbar";
 import { HeroPost } from "@/app/_components/hero-post";
-import { Intro } from "@/app/_components/intro";
 import { MoreStories } from "@/app/_components/more-stories";
 import { getAllPosts } from "../lib/api";
 import { CallToAction } from "./_components/cta";
 import { AboutHome } from "./_components/about-home";
-import { TechStack } from "./_components/TechStack";
+import { TechStack } from "./_components/tech-stack";
 import { HomeProjects } from "./_components/HomeProjects";
 
 
