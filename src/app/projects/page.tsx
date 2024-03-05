@@ -1,5 +1,6 @@
 import Container from "@/app/_components/container";
 import { NavBar } from "@/app/_components/navbar";
+import Image from "next/image";
 
 export default function Projects() {
   return (
@@ -9,7 +10,17 @@ export default function Projects() {
         <h1 className="text-8xl mt-[100px] text-center font-bold">Projects</h1>
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
-         
+          <div className="flex justify-center">
+          <Image
+              priority={true}
+              src="/assets/home/animated-search-bar.jpg"
+             width="1000"
+             height="300"
+              alt="HTML5"
+              text="center"
+              className={("shadow-sm w-full rounded-3xl mb-[30px]")}
+            />
+          </div>
             <h2 className="text-6xl  font-bold text-center" >Animated Search bar</h2>
             <p className="text-center">This project showcases the power of CSS animations to create a visually engaging search bar experience. Built solely with HTML and CSS, it offers a delightful first impression without requiring any Javascript for functionality.</p>
             <div className="flex justify-center align-center">
@@ -22,6 +33,17 @@ export default function Projects() {
 
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
+          <div className="flex justify-center">
+          <Image
+              priority={true}
+              src="/assets/home/average-calculator.jpg"
+             width="1000"
+             height="300"
+              alt="HTML5"
+              text="center"
+              className={("shadow-sm w-full rounded-3xl mb-[30px]")}
+            />
+            </div>
             <h2 className="text-6xl text-center font-bold" >Average Calculator</h2>
             <p className="text-center">This project tackles a practical need: calculating the average of a set of numbers. It leverages the combined strengths of HTML, CSS, and Javascript to create a functional tool, prioritizing usability over flashy visuals.</p>
             <div className="flex justify-center align-center">
@@ -34,6 +56,17 @@ export default function Projects() {
 
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
+          <div className="flex justify-center">
+          <Image
+              priority={true}
+              src="/assets/home/lorem.jpg"
+             width="1000"
+             height="300"
+              alt="HTML5"
+              text="center"
+              className={("shadow-sm w-full rounded-3xl mb-[30px]")}
+            />
+            </div>
             <h2 className="text-6xl text-center font-bold" >Lorem Ipsum Generator</h2>
             <p className="text-center">This project tackles a common need for designers and web developers: generating placeholder text, also known as Lorem Ipsum. Built with HTML, CSS, and Javascript, it offers a user-friendly and efficient solution for everyday use.
 
