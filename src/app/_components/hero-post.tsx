@@ -22,7 +22,7 @@ export function HeroPost({
   slug,
 }: Props) {
   return (
-    <section className="mt-[520px]">
+    <section className="mt-[250px]">
       <div className="mb-8 md:mb-16">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>

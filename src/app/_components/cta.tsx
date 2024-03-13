@@ -1,14 +1,13 @@
 import Image from "next/image";
 
 
-
 export function CallToAction() {
     return (
         <section>
             <div className="relative h-screen w-screen overflow-hidden">
                 <Image
                     alt="3d Form"
-                    src="/assets/home/Abstract-Graphic.jpeg"
+                    src="/assets/home/Blackhole.jpeg"
                     quality={100}
                     fill={true}
                     objectFit="cover"
