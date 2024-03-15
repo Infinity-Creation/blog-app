@@ -21,6 +21,7 @@ export function PostPreview({
   author,
   slug,
 }: Props) {
+  console.log("post-preview:" + date);
   return (
     <div>
       <div className="mb-5">

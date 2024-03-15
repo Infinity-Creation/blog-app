@@ -12,6 +12,7 @@ type Props = {
 };
 
 export function PostHeader({ title, coverImage, date, author }: Props) {
+  console.log("PostHeader:" +date);
   return (
     <>
       <PostTitle>{title}</PostTitle>

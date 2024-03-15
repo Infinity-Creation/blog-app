@@ -1,3 +1,14 @@
+---
+title: "Link vs Import"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+coverImage: "/assets/blog/preview/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
+author:
+  name: Joe Haddad
+  picture: "/assets/blog/authors/joe.jpeg"
+ogImage:
+  url: "/assets/blog/preview/cover.jpg"
+---
 ## Intro
 
 When you go to Google Fonts to get a font for your website, you saw two options. You can use either the link HTML element `<link>` or the CSS `@import`. When you decided you probably just stuck to the `<link>` element if you're a beginner in this area. In this article, you'll get to know all the pros and cons of using `<link>` and @import so stay here and read on.
