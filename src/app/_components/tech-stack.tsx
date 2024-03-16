@@ -5,15 +5,12 @@ import Image from "next/image";
 export function TechStack() {
   return (
     <section >
-      <h2 className="font-bold text-6xl text-center">My Tech Stack</h2>
+      <h2 className="font-bold text-7xl text-center">My Tech Stack</h2>
       <div className="flex justify-center gap-[50px] mt-[50px]">
       <div className="flex justify-center gap-[50px]">
-        <div className=" p-[50px] border-[1px] border-[white] border-solid rounded-2xl">
+        <div className=" p-[50px] w-[900px] border-[1px] border-[white] border-solid rounded-2xl">
           <p className="text-center">
-            I am very fluent in HTML 5 and CSS 3 as well as in JavaScript. I
-            also am starting to master Node.js and other more advanced JS and TS
-            frameworks like React, I hope to one day become a master of web
-            development technologies, but right now that is far from reality.
+          Aenean sed adipiscing diam donec adipiscing tristique risus nec feugiat. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Vitae aliquet nec ullamcorper sit amet risus. Nec ullamcorper sit amet risus nullam. Nisl condimentum id venenatis a condimentum vitae. Purus semper eget duis at tellus at urna condimentum mattis. Nibh tellus molestie nunc non blandit. Nunc mi ipsum faucibus vitae aliquet nec. Nibh praesent tristique magna sit amet purus gravida. Id consectetur purus ut faucibus pulvinar elementum integer. Mi sit amet mauris commodo quis imperdiet massa tincidunt. Convallis a cras semper auctor. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Faucibus scelerisque eleifend donec pretium vulputate sapien. Est pellentesque elit ullamcorper dignissim cras. Ut porttitor leo a diam sollicitudin tempor id eu. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.
           </p>
           <p className="mt-[20px] text-center">
             {" "}

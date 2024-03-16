@@ -17,7 +17,7 @@ export default function Index() {
   const morePosts = allPosts.slice(1);
 
   return (
-    <main className="bg-neutral-950 text-white">
+    <main className="bg-neutral-950 text-white selection:bg-blue-600">
       <Container>
         <NavBar />
         <CallToAction></CallToAction>

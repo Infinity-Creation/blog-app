@@ -1,6 +1,8 @@
 import Container from "@/app/_components/container";
 import { NavBar } from "@/app/_components/navbar";
 import Image from "next/image";
+import React, { useState } from 'react';
+
 
 export default function Projects() {
   return (
@@ -10,7 +12,7 @@ export default function Projects() {
         <h1 className="text-8xl mt-[100px] text-center font-bold">Projects</h1>
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
-          <div className="flex justify-center">
+          <div className="flex justify-center hidden">
           <Image
               priority={true}
               src="/assets/home/animated-search-bar.jpg"
@@ -33,7 +35,7 @@ export default function Projects() {
 
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
-          <div className="flex justify-center">
+          <div className="flex justify-center hidden">
           <Image
               priority={true}
               src="/assets/home/average-calculator.jpg"
@@ -56,7 +58,7 @@ export default function Projects() {
 
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
-          <div className="flex justify-center">
+          <div className="flex justify-center hidden">
           <Image
               priority={true}
               src="/assets/home/lorem.jpg"

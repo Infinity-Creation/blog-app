@@ -3,7 +3,7 @@ import Container from "./container"
 export function AboutHome() {
     return (
         <Container>
-            <h2 className="font-bold text-6xl text-center">About</h2>
+            <h2 className="font-bold text-7xl text-center">About</h2>
 
             <section className="flex justify-center mt-[100px] mb-[100px] gap-[30px]">
                 <section className="border-[1px] border-solid border-[white]  rounded-3xl p-[30px] text-center" >
