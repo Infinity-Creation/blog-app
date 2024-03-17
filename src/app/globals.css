@@ -4,4 +4,10 @@
 * {
     @apply bg-black;
 } 
+pre {
+    @apply bg-neutral-700  w-[150%] p-[10px] rounded-2xl;
+}
+code {
+    @apply bg-neutral-700  p-[3px] rounded-xl;
+}
  

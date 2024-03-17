@@ -4,7 +4,7 @@ export function HomeProjects() {
     return (
         <section>
             <h2 className="font-bold text-7xl text-center mb-[40px] mt-[100px]">Projects</h2>
-            <section className="flex grid grid-rows-2 grid-cols-2 gap-[50px]">
+            <section className="mb:flex mb:grid mb:grid-rows-2 grid-cols-2 gap-[50px]">
                 <div className="p-[30px] border-[white] border-[1px] border-solid rounded-2xl">
                     <h3 className="text-center font-bold text-5xl">Average Age Calculator</h3>
                     <p className="text-center">This simple Average Calculator combines HTML, CSS, and Javascript to provide a user-friendly way to calculate averages. The HTML structure defines input fields and an output area, CSS ensures a clean interface, and Javascript handles capturing user input, performing the calculation, and displaying the average. Though lacking a fancy interface, it prioritizes functionality for a quick and efficient user experience.</p>

@@ -11,7 +11,7 @@ export default function Blog() {
     <Container>
     <section className="bg-neutral-950 text-white selection:bg-blue-600">
     <NavBar></NavBar>
-    <h1 className="text-8xl mt-[100px] font-bold text-center">Alteca Blog</h1>
+    <h1 className="text-7xl mt-[100px] font-bold text-center">Alteca Blog</h1>
     <MoreStories posts={allPosts}></MoreStories>
     <div className="flex justify-center align-center">
                         <a

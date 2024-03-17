@@ -7,7 +7,7 @@ export default function Contact() {
     <section className="bg-neutral-950 text-white selection:bg-blue-600">
       <Container>
         <NavBar></NavBar>
-        <h1 className="text-8xl mt-[100px] font-bold text-center">Contact</h1>
+        <h1 className="text-7xl mt-[100px] font-bold text-center">Contact</h1>
         
         <h3 className="text-center text-3xl mb-[20px]">You can email me on my Alteca email or DM me on X/Twitter</h3> <h3 className="text-center text-3xl mb-[50px]">Feel Free to reach if you need advice on web development and tech related things. I also am available for backlink exchanges</h3>
           <div className="flex  justify-center">

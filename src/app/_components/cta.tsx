@@ -14,7 +14,7 @@ export function CallToAction() {
                     sizes="100vw"
                 />
             </div>
-            <div className=" ml-[-150px] absolute -translate-x-2/4 -translate-y-2/4 left-2/4 top-2/4 z-1 bg-transparent">
+            <div className=" md:ml-[-100px] absolute -translate-x-2/4 -translate-y-2/4 left-2/4 top-2/4 z-1 bg-transparent">
                 
                 <h1 className="text-8xl mt-[100px] font-bold bg-transparent">Alteca</h1>
                 <h2 className="font-bold text-5xl mb-[50px] bg-transparent">
@@ -23,7 +23,7 @@ export function CallToAction() {
                 <div className=" bg-transparent flex align-center">
                     <a
                         href="/blog"
-                        className="mx-3 border-[1px] border-solid bg-white text-[black] border-[white] rounded-2xl hover:bg-white text-white font-bold py-3 px-12 lg:px-8 duration-500 transition mb-6 lg:mb-0 "
+                        className="mx-3 border-[1px] border-solid bg-white text-[black] border-[white] rounded-2xl hover:bg-white font-bold py-3 px-12 lg:px-8 duration-500 transition mb-6 lg:mb-0 "
                     >
                         Start Reading
                     </a>

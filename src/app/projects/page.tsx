@@ -6,10 +6,10 @@ import React, { useState } from 'react';
 
 export default function Projects() {
   return (
-    <section className="bg-neutral-950 text-white">
+    <section className="bg-neutral-950 text-white selection:bg-blue-600">
       <Container>
         <NavBar></NavBar>
-        <h1 className="text-8xl mt-[100px] text-center font-bold">Projects</h1>
+        <h1 className="mb:text-8xl text-7xl mt-[100px] text-center font-bold">Projects</h1>
         <div className="flex justify-center mt-[50px] mb-[25px] items-center">
           <div className="border-[white] border-solid border-[1px] p-[50px] rounded-3xl">
           <div className="flex justify-center hidden">
