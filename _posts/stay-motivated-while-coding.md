@@ -1,7 +1,7 @@
 ---
 title: "How to stay Motivated while Coding"
 excerpt: "Here I'll be writing my own ways to keep myself motivated while coding"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/Programming Internet.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

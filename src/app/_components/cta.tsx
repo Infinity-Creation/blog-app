@@ -16,8 +16,8 @@ export function CallToAction() {
             </div>
             <div className=" md:ml-[-100px] absolute -translate-x-2/4 -translate-y-2/4 left-2/4 top-2/4 z-1 bg-transparent">
                 
-                <h1 className="text-8xl mt-[100px] font-bold bg-transparent">Alteca</h1>
-                <h2 className="font-bold text-5xl mb-[50px] bg-transparent">
+                <h1 className="text-7xl mt-[100px] font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-blue-600">The Fullstack Resource you need</h1>
+                <h2 className="font-bold text-5xl mb-[50px] ">
                     Explore Programming Tutorials, Reviews, and How-to-Guides
                 </h2>
                 <div className=" bg-transparent flex align-center">

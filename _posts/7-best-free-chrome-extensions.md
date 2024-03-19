@@ -1,13 +1,13 @@
 ---
 title: "7 best Chrome Extensions"
 excerpt: "C"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/Extensions.jpeg"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/Extensions.jpeg"
 ---
 ## Intro
 

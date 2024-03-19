@@ -1,7 +1,7 @@
 ---
 title: "How to get rid of your Scratch Addiction"
 excerpt: ""
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/scratch_org.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
