@@ -22,11 +22,11 @@ export function Footer() {
 
 
         <div className="justify-center flex gap-[20px] mb-[20px]">
-          <a href="https://x.com/alteca_xyz">X</a>
-          <a href="https://dev.to/alteca">DEV Community</a>
-          <a href="https://alteca.hashnode.dev">Hashnode</a>
-          <a href="https://scratch.mit.edu/">Scratch</a>
-          <a href="https://github.com/Infinity-Creation">Github</a>
+          <a href="https://x.com/alteca_xyz" className="hover:text-blue-600  transition duration-300">X</a>
+          <a href="https://dev.to/alteca" className="hover:text-blue-600  transition duration-300">DEV Community</a>
+          <a href="https://alteca.hashnode.dev" className="hover:text-blue-600  transition duration-300">Hashnode</a>
+          <a href="https://scratch.mit.edu/" className="hover:text-blue-600  transition duration-300">Scratch</a>
+          <a href="https://github.com/Infinity-Creation" className="hover:text-blue-600  transition duration-300">Github</a>
         </div>
         <div className=" justify-center flex mb-[20px]">
           <p> Copyright &copy; 2024. All rights reserved</p>
