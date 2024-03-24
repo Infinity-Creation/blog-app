@@ -22,11 +22,11 @@ export function Footer() {
 
 
         <div className="justify-center flex gap-[20px] mb-[20px]">
-          <a href="https://x.com/alteca_xyz" className="hover:text-blue-600  transition duration-300">X</a>
-          <a href="https://dev.to/alteca" className="hover:text-blue-600  transition duration-300">DEV Community</a>
-          <a href="https://alteca.hashnode.dev" className="hover:text-blue-600  transition duration-300">Hashnode</a>
-          <a href="https://scratch.mit.edu/" className="hover:text-blue-600  transition duration-300">Scratch</a>
-          <a href="https://github.com/Infinity-Creation" className="hover:text-blue-600  transition duration-300">Github</a>
+          <a href="https://x.com/alteca_xyz" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">X</a>
+          <a href="https://dev.to/alteca" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">DEV Community</a>
+          <a href="https://alteca.hashnode.dev" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Hashnode</a>
+          <a href="https://scratch.mit.edu/" className=" relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Scratch</a>
+          <a href="https://github.com/Infinity-Creation" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Github</a>
         </div>
         <div className=" justify-center flex mb-[20px]">
           <p> Copyright &copy; 2024. All rights reserved</p>

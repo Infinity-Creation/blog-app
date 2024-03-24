@@ -17,11 +17,11 @@ export default function Index() {
   const morePosts = allPosts.slice(1);
 
   return (
-    <main className="bg-neutral-950 text-white selection:bg-blue-600">
+    <main className=" text-white selection:bg-blue-600">
       <Container>
         <NavBar />
         <CallToAction></CallToAction>
-        <div className="mt-[100px]">
+        <div className="mt-[100px] bg-transparent">
         <HeroPost
           title={heroPost.title}
           coverImage={heroPost.coverImage}
