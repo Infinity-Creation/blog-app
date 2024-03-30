@@ -2,6 +2,7 @@
 title: "8 AI tools you should be using"
 excerpt: "AI"
 coverImage: "/assets/blog/hello-world/AI Generated ChatGPT.jpg"
+
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

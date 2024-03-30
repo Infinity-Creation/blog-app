@@ -18,6 +18,7 @@ export default async function Post({ params }: Params) {
   }
 
   const content = await markdownToHtml(post.content || "");
+  
 
   return (
     <main className="bg-neutral-950  text-white selection:bg-blue-600">
@@ -31,6 +32,7 @@ export default async function Post({ params }: Params) {
             
           />
           <PostBody content={content} />
+          {readingTime}
         </article>
       </Container>
     </main>

@@ -5,13 +5,13 @@ import Image from "next/image";
 export function NavBar() {
   return (
     <Container>
-    <nav className="w-full fixed bg-black bg-opacity-70 top-0 left-0 right-0 z-10 p-4">
+    <nav className="w-full fixed bg-black bg-opacity-70 top-0 left-0 right-0 z-10 p-2">
       
       <div className="justify-between px-2 mx-auto bg-transparent lg:max-w-7xl md:items-center md:flex md:px-4">
         <div className="bg-transparent">
           <div className=" flex justify-center items-center bg-transparent">
             <Image  alt="3d Form"
-                    src="/assets/home/favincon.jpg"
+                    src="/assets/home/logo.png"
                     quality={100} 
                     width={75}
                     height={75}

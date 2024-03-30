@@ -1,9 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-* {
+body {
     @apply bg-black;
-} 
+}
+
 pre {
     @apply bg-neutral-700  w-[150%] p-[10px] rounded-2xl;
 }
