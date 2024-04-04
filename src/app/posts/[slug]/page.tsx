@@ -32,7 +32,7 @@ export default async function Post({ params }: Params) {
             
           />
           <PostBody content={content} />
-          {readingTime}
+          
         </article>
       </Container>
     </main>

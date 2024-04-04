@@ -30,6 +30,9 @@ export function NavBar() {
           <Link href="/projects" className=" bg-transparent text-white mr-4 relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">
             Projects
           </Link>
+          <Link href="/categories" className="bg-transparent text-white mr-4 relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">
+          Categories
+          </Link>
           <Link href="/about" className=" bg-transparent text-white mr-4 relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">
             About
           </Link>

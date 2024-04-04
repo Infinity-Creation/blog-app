@@ -17,6 +17,9 @@ export function BlogNavBar() {
                             <Link href="/projects" className="text-white mr-4 ">
                                 Projects
                             </Link>
+                            <Link href="/categories" className="text-white mr-4">
+                                Categories
+                            </Link>
                             <Link href="/about" className="text-white mr-4 ">
                                 About
                             </Link>

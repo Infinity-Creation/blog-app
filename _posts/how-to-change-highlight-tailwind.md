@@ -1,6 +1,6 @@
 ---
-title: "How to Change Highlight Color in Tailwindcss"
-excerpt: "A simple yet effective way to style your elements on highlight"
+title: "How to Change Selection Color in Tailwind"
+excerpt: "A simple yet effective way to style your elements on selection"
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2020-04-16T05:35:07.322Z"
 author:
