@@ -36,7 +36,7 @@ export default function Index() {
         <AboutHome></AboutHome>
         <TechStack></TechStack>
         <HomeProjects></HomeProjects>
-        <Contactform></Contactform>
+
       </Container>
     </main>
   );

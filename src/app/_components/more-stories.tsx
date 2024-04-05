@@ -1,5 +1,7 @@
+"use client"
 import { Post } from "@/interfaces/post";
 import { PostPreview } from "./post-preview";
+import { Fade } from "react-awesome-reveal";
 
 type Props = {
   posts: Post[];
@@ -7,6 +9,7 @@ type Props = {
 
 export function MoreStories({ posts }: Props) {
   return (
+  <Fade cascade damping={1}>
     <section>
       <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-16 lg:gap-x-20 gap-y-20 md:gap-y-32">
         {posts.map((post) => (
@@ -22,5 +25,6 @@ export function MoreStories({ posts }: Props) {
         ))}
       </div>
     </section>
+    </Fade>
   );
 }
