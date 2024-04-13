@@ -7,7 +7,6 @@ import { CallToAction } from "./_components/cta";
 import { AboutHome } from "./_components/about-home";
 import { TechStack } from "./_components/tech-stack";
 import { HomeProjects } from "./_components/HomeProjects";
-import { Contactform } from "./_components/home-contact";
 
 
 export default function Index() {

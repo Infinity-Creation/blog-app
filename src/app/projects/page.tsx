@@ -1,7 +1,6 @@
 import Container from "@/app/_components/container";
 import { NavBar } from "@/app/_components/navbar";
 import Image from "next/image";
-import React, { useState } from 'react';
 
 
 export default function Projects() {
