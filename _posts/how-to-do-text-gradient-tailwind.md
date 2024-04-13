@@ -2,6 +2,7 @@
 title: "How to do Text Gradients in Tailwind"
 excerpt: "The way to make your text stand out"
 coverImage: "/assets/blog/hello-world/gradient2.png"
+tags: ["Null"]
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

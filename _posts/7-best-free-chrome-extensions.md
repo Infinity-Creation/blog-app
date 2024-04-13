@@ -1,7 +1,7 @@
 ---
 title: "7 best Chrome Extensions"
 excerpt: "The best tools you should use to increase your productivity in the browser"
-
+tags: ["Undefined"]
 coverImage: "/assets/blog/hello-world/gradient1.png"
 date: "2020-04-16T05:35:07.322Z"
 author:

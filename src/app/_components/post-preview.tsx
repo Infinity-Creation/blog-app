@@ -23,7 +23,7 @@ export function PostPreview({
   author,
   slug,
 }: Props) {
-  console.log("post-preview:" + date);
+  //console.log("post-preview:" + date);
   return (
     <div className="border-solid border-white border-[1px] px-8 py-7 rounded-3xl">
       <div className="mb-5">
