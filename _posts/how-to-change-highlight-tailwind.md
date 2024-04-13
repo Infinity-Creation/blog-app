@@ -1,7 +1,7 @@
 ---
 title: "How to Change Selection Color in Tailwind"
 excerpt: "A simple yet effective way to style your elements on selection"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/gradient1.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

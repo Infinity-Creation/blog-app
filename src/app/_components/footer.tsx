@@ -22,11 +22,11 @@ export function Footer() {
 
 
         <div className="justify-center flex gap-[20px] mb-[20px]">
-          <a href="https://x.com/alteca_xyz" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">X</a>
-          <a href="https://dev.to/alteca" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">DEV Community</a>
-          <a href="https://alteca.hashnode.dev" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Hashnode</a>
-          <a href="https://scratch.mit.edu/" className=" relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Scratch</a>
-          <a href="https://github.com/Infinity-Creation" className="relative after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Github</a>
+          <a href="https://x.com/alteca_xyz" className="relative lg:text-lg text-sm after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">X</a>
+          <a href="https://dev.to/alteca" className="relative lg:text-lg text-sm after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">DEV Community</a>
+          <a href="https://alteca.hashnode.dev" className="relative lg:text-lg text-sm after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Hashnode</a>
+          <a href="https://scratch.mit.edu/" className=" relative lg:text-lg text-sm after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Scratch</a>
+          <a href="https://github.com/Infinity-Creation" className="relative lg:text-lg text-sm after:bg-white after:absolute after:h-[2px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer">Github</a>
         </div>
         <div className=" justify-center flex mb-[20px]">
           <p> Copyright &copy; 2024. All rights reserved</p>

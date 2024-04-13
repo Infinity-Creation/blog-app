@@ -1,8 +1,8 @@
 ---
 title: "7 best Chrome Extensions"
-excerpt: "C"
+excerpt: "The best tools you should use to increase your productivity in the browser"
 
-coverImage: "/assets/blog/hello-world/Extensions.jpeg"
+coverImage: "/assets/blog/hello-world/gradient1.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

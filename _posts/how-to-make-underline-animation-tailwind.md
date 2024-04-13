@@ -1,6 +1,6 @@
 ---
 title: "How to make an underline Animation Tailwind"
-excerpt: "The way to make your text stand out"
+excerpt: "Make a simple underline animation in Tailwindcss"
 coverImage: "/assets/blog/hello-world/gradient3.png"
 date: "2020-04-16T05:35:07.322Z"
 author:

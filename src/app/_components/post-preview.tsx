@@ -44,7 +44,7 @@ export function PostPreview({
        <i> <DateFormatter dateString={date} /></i>
       </div>
       </div>
-      <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+      <p className="text-lg text-gray-300 leading-relaxed mb-4">{excerpt}</p>
       
     </div>
   );

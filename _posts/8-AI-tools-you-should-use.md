@@ -1,7 +1,7 @@
 ---
 title: "8 AI tools you should be using"
-excerpt: "AI"
-coverImage: "/assets/blog/hello-world/Ai-toos.png"
+excerpt: "The best AI tools you should use to increase your productivity"
+coverImage: "/assets/blog/hello-world/gradient3.png"
 
 date: "2020-04-16T05:35:07.322Z"
 author:
