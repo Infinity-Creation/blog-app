@@ -3,7 +3,7 @@ title: "How to make an animated search bar"
 excerpt: "In this article, as you've probably read in the title, I will show you how to create an animated search bar using HTML and CSS."
 coverImage: "/assets/blog/hello-world/gradient2.png"
 tags: ["Void"]
-date: "2020-04-16T05:35:07.322Z"
+date: "2024-02-15T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
