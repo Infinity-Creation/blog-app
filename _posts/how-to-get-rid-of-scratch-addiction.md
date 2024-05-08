@@ -1,7 +1,8 @@
 ---
 title: "How to get rid of your Scratch Addiction"
 excerpt: ""
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/gradient3.png"
+tags: ["Undefined"]
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
@@ -128,7 +129,7 @@ The other followers came shortly after, seeing that people wanted to follow me, 
 
 Now that I was addicted, I wanted the maximum number of followers possible, so I stopped making projects and used the technique described as Liking earlier in the article. I attracted a few followers this way, but fewer than if I would continue to make projects.
 
-Finally, in February, I quit Scratch since I had started my website and little did I know that it would take me half a year to make in pure code. A website builder would've been faster, but the customizability wouldn't be there.
+Finally, in February, I quit Scratch since I had started my website and little did I know that it would take me half a year to make in pure code (It wasn't this website). A website builder would've been faster, but the customizability wouldn't be there.
 
 ## Conclusion
 

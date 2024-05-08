@@ -3,6 +3,7 @@ import CoverImage from "@/app/_components/cover-image";
 import { type Author } from "@/interfaces/author";
 import Link from "next/link";
 import DateFormatter from "./date-formatter";
+import Container from "./container";
 
 type Props = {
   title: string;
@@ -22,7 +23,9 @@ export function HeroPost({
   slug,
 }: Props) {
   return (
-    <section className="mt-[520px]">
+    <Container>
+      <h2 className="lg:text-8xl text-6xl font-bold text-center mb-[20px]">Featured</h2>
+    <section className="bg-transparent border-[1px] border-white mb-[50px] p-8 rounded-3xl">
       <div className="mb-8 md:mb-16">
         <CoverImage title={title} src={coverImage} slug={slug} />
       </div>
@@ -32,20 +35,20 @@ export function HeroPost({
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
-              className="hover:underline"
+              className="relative after:bg-white after:absolute after:h-[3px] after:w-0 after:bottom-0 after:left-0 hover:after:w-full after:transition-all after:duration-300 cursor-pointer"
             >
               {title}
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+            <i><DateFormatter dateString={date} /></i>
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <p className="text-lg leading-relaxed mb-4 text-gray-300">{excerpt}</p>
         </div>
       </div>
     </section>
+    </Container>
   );
 }

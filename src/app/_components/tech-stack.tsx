@@ -5,15 +5,12 @@ import Image from "next/image";
 export function TechStack() {
   return (
     <section >
-      <h2 className="font-bold text-6xl text-center">My Tech Stack</h2>
+      <h2 className="font-bold text-7xl text-center">My Tech Stack</h2>
       <div className="flex justify-center gap-[50px] mt-[50px]">
-      <div className="flex justify-center gap-[50px]">
-        <div className=" p-[50px] border-[1px] border-[white] border-solid rounded-2xl">
+      <div className="md:flex justify-center gap-[50px]">
+        <div className=" p-[50px] w-45 mb-[30px] border-[1px] border-[white] border-solid rounded-2xl">
           <p className="text-center">
-            I am very fluent in HTML 5 and CSS 3 as well as in JavaScript. I
-            also am starting to master Node.js and other more advanced JS and TS
-            frameworks like React, I hope to one day become a master of web
-            development technologies, but right now that is far from reality.
+          I build blazing-fast, SEO-friendly web experiences with modern tools like Next.js (React) and Tailwind CSS.  This tech stack lets me craft beautiful, responsive UIs on a foundation of core web technologies (HTML, CSS, JS).
           </p>
           <p className="mt-[20px] text-center">
             {" "}

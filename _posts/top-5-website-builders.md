@@ -1,7 +1,8 @@
 ---
 title: "Top 5 Website Builders"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/hello-world/gradient3.png"
+tags: ["Undefined", "Void"]
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Joe Haddad

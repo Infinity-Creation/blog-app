@@ -1,13 +1,15 @@
 ---
 title: "7 best Chrome Extensions"
-excerpt: "C"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+excerpt: "The best tools you should use to increase your productivity in the browser"
+tags: ["Undefined"]
+coverImage: "/assets/blog/hello-world/gradient1.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/hello-world/cover.jpg"
+  url: "/assets/blog/hello-world/Extensions.jpeg"
+
 ---
 ## Intro
 
