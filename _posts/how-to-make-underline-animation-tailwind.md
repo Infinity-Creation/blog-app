@@ -22,4 +22,5 @@ First we'll add a `<div>` to our HTML document and then put a link `<a>` into th
 </div>
 ```
 ## Animating the underline
+Now that we've layed out our small project, we can create the underline animation itself
 
