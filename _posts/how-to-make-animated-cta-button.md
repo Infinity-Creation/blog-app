@@ -1,7 +1,7 @@
 ---
 title: "How to make an animated CTA button"
 excerpt: "In this article I will show you how to make a clean and minimalistic CTA button"
-coverImage: "/assets/blog/hello-world/cover.jpg"
+coverImage: "/assets/blog/hello-world/gradient1.png"
 date: "2020-04-16T05:35:07.322Z"
 author:
   name: Tim Neutkens

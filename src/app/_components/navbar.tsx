@@ -40,6 +40,8 @@ export function NavBar() {
             Contact
           </Link>
         </div>
+        
+      
       </div>
     </nav>
     </Container>
