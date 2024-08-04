@@ -3,7 +3,7 @@ title: "Top 15 most common web design Mistakes"
 excerpt: "Common web design mistakes to look out for when designing"
 coverImage: "/assets/blog/hello-world/gradient1.png"
 tags: ["Undefined"]
-date: "2024-06-1T05:35:07.322Z"
+date: "2024-06-01T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
